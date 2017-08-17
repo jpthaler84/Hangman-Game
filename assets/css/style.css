@@ -21,3 +21,16 @@ body, html {
 .jumbobg{
 	background: linear-gradient(black, grey);
 }
+
+.facekey{
+	text-align: center;
+	color: white;
+}
+
+.wordspace{
+	width: 50%;
+	height: 60px;
+	position: center;
+	margin-left: auto;
+	margin-right: auto;
+}
